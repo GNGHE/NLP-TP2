@@ -172,4 +172,4 @@ cython_debug/
 .vscode/
 
 docker/
-*.png
+#*.png
